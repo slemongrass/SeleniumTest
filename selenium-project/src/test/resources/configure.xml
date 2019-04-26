@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conf>
+    <test.server.url>https://www.baidu.com/</test.server.url>
+    <test.seleniumhub.url>http://172.28.126.49:4444/wd/hub</test.seleniumhub.url>
+    <!--- test.browser.type: {"firefox", "chrome", "ie"}-->
+    <test.browser.type>ie</test.browser.type>
+</conf>
